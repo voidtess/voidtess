@@ -5,4 +5,5 @@ Name's Tess, your magic mr.man, this is my profile where i keep updates about my
 
 - 🔭 Fresh out Software Tester, finished studying through a bootcamp (Complete Software Testing 2026 Bootcamp by Tarek Roshdy), eager for achievements more than anytime!
 - Done a good project regarding automation Java, using Selenium WebDriver and TestNG
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_REPO_NAME)](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME)
 
