@@ -52,11 +52,11 @@ ________________________________________
 
 Postman - Validating Response Codes
 ________________________________________
-<img width="959" height="344" alt="зображення" src="https://github.com/user-attachments/assets/e0e3648d-d71c-49e9-ad17-b8ce4db64b8d" />
+<img width="959" height="500" alt="зображення" src="https://github.com/user-attachments/assets/e0e3648d-d71c-49e9-ad17-b8ce4db64b8d" />
 
 JMeter - Written scripts
 ________________________________________
-<img width="959" height="364" alt="зображення" src="https://github.com/user-attachments/assets/34422963-b026-43f1-af16-be1b993c5289" />
+<img width="959" height="627" alt="зображення" src="https://github.com/user-attachments/assets/34422963-b026-43f1-af16-be1b993c5289" />
 
 JMeter - Results
 
