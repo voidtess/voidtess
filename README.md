@@ -1,5 +1,5 @@
 ## Hello there!👋
-You can also contact me on LinkedIn: https://www.linkedin.com/in/voidtess/
+You can also contact me on [LinkedIn](https://www.linkedin.com/in/voidtess/)
 
 Name's Tess, your magic mr.man, this is my profile where i keep updates about my skills, how and what do i learn, and it is my testgrounds.
 
@@ -17,7 +17,8 @@ And my summary portfolio is:
 
 1. WEB UI AUTOMATION FRAMEWORK
 ________________________________________
-GitHub Repo: github.com/voidtess/My-QA-Projects
+[GitHub Repo](https://github.com/voidtess/My-QA-Projects)
+
 Primary Tech Stack: Java, Selenium WebDriver, TestNG, Maven, IntelliJ IDEA
 
 Objective: Designed and executed an automated end-to-end testing suite targeting modern web applications to validate core functional flows, DOM element persistence, and key UI interactions.
