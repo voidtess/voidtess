@@ -1,4 +1,4 @@
-<img width="812" height="952" alt="Screenshot 2026-09-16 164034" src="https://github.com/user-attachments/assets/f686730f-2680-43c3-bbc8-41c284019735" />## Hello there!👋
+## Hello there!👋
 You can also contact me on LinkedIn: https://www.linkedin.com/in/voidtess/
 
 Name's Tess, your magic mr.man, this is my profile where i keep updates about my skills, how and what do i learn, and it is my testgrounds.
@@ -38,9 +38,9 @@ Stress Testing: Configured and executed Apache JMeter test scripts simulating us
 
 4. EXECUTION VERIFICATION & PROOF
 ________________________________________
-<img width="812" height="952" alt="Screenshot 2026-09-16 164034" src="https://github.com/user-attachments/assets/5f4f778a-6fc3-4e05-90d7-4d9bbd6da76f" />
+<img width="406" height="476" alt="Screenshot 2026-09-16 164034" src="https://github.com/user-attachments/assets/5f4f778a-6fc3-4e05-90d7-4d9bbd6da76f" />
 TestNG Execution Console Output
-<img width="1919" height="997" alt="Screenshot 2026-09-18 163504" src="https://github.com/user-attachments/assets/1d1be141-518f-4f46-9ea9-4f5e9321090e" />
+<img width="959" height="500" alt="Screenshot 2026-09-18 163504" src="https://github.com/user-attachments/assets/1d1be141-518f-4f46-9ea9-4f5e9321090e" />
 Postman - Validating Response Codes
 
 
