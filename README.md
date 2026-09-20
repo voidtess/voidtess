@@ -47,15 +47,16 @@ ________________________________________
 <img width="406" height="476" alt="Screenshot 2026-09-16 164034" src="https://github.com/user-attachments/assets/5f4f778a-6fc3-4e05-90d7-4d9bbd6da76f" />
 
 TestNG Execution Console Output
+________________________________________
 <img width="959" height="500" alt="Screenshot 2026-09-18 163504" src="https://github.com/user-attachments/assets/1d1be141-518f-4f46-9ea9-4f5e9321090e" />
 
 Postman - Validating Response Codes
-
-<img width="959" height="500" alt="зображення" src="https://github.com/user-attachments/assets/e0e3648d-d71c-49e9-ad17-b8ce4db64b8d" />
+________________________________________
+<img width="959" height="344" alt="зображення" src="https://github.com/user-attachments/assets/e0e3648d-d71c-49e9-ad17-b8ce4db64b8d" />
 
 JMeter - Written scripts
-
-<img width="959" height="627" alt="зображення" src="https://github.com/user-attachments/assets/34422963-b026-43f1-af16-be1b993c5289" />
+________________________________________
+<img width="959" height="364" alt="зображення" src="https://github.com/user-attachments/assets/34422963-b026-43f1-af16-be1b993c5289" />
 
 JMeter - Results
 
