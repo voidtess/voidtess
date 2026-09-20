@@ -27,20 +27,20 @@ Key Architecture & Technical Implementation:
 • Framework Integration - Implemented TestNG assertions to validate application states and automate multi-step test executions 
 • Error Handling - Handled dynamic element loading using explicit/implicit waits to eliminate flaky test behavior across execution cycles. 
 
-
+________________________________________
 
 2. API & BACKEND VALIDATION (POSTMAN & SQL)
 ________________________________________
 • REST API Testing: Created and executed Postman test collections to validate HTTP response codes (200 OK, 4xx/5xx boundaries), payload JSON schemas, and request/response header parameters. 
 • Database Persistence: Executed custom SQL queries against relational databases to verify that frontend user inputs match actual backend data records.
 
-
+________________________________________
 
 3. PERFORMANCE & LOAD TESTING (JMETER)
 ________________________________________
 Stress Testing: Configured and executed Apache JMeter test scripts simulating user traffic spikes to evaluate backend system stability and latency limits.
 
-
+________________________________________
 
 4. EXECUTION VERIFICATION & PROOF
 ________________________________________
@@ -58,5 +58,7 @@ JMeter - Written scripts
 <img width="959" height="627" alt="зображення" src="https://github.com/user-attachments/assets/34422963-b026-43f1-af16-be1b993c5289" />
 
 JMeter - Results
+
+________________________________________
 
 You can find my resume [here](https://github.com/voidtess/voidtess/blob/main/CV%20ENG.pdf).
