@@ -51,7 +51,7 @@ TestNG Execution Console Output
 
 Postman - Validating Response Codes
 
-<img width="959" height="300" alt="зображення" src="https://github.com/user-attachments/assets/e0e3648d-d71c-49e9-ad17-b8ce4db64b8d" />
+<img width="959" height="500" alt="зображення" src="https://github.com/user-attachments/assets/e0e3648d-d71c-49e9-ad17-b8ce4db64b8d" />
 
 JMeter - Written scripts
 
