@@ -1,11 +1,11 @@
 ## Hello there!👋
 You can also contact me on [LinkedIn](https://www.linkedin.com/in/voidtess/)
 
-Name's Tess, your magic mr.man, this is my profile where i keep updates about my skills, how and what do i learn, and it is my testgrounds.
+Name's Tess, your magic Mr. Man. This is my profile, where I keep updates on my skills, what I'm learning, and it is my testground.
 
-- 🔭 Junior Software Tester, finished studying through a bootcamp (Complete Software Testing 2026 Bootcamp by Tarek Roshdy), eager for achievements more than anytime!
+- 🔭 QA Engineer working on a web-based game currently, with a self-taught foundation in Manual & Automation skills.
 - Done a good [project](https://github.com/voidtess/My-QA-Projects) regarding automation Java, using Selenium WebDriver and TestNG
-- Good experience using Manual White&Black box techniques, Postman API testing, Apache JMeter performance testing, REST API.
+- Good experience using manual white-box & black-box techniques, Postman API testing, Apache JMeter performance testing, REST API.
 - Strong automation experience with Java, Selenium WebDriver, TestNG, Browser DevTools, Locator Strategies (XPath, CSS).
 - SQL, Jira, Trello, Git.
 
